@@ -3,3 +3,5 @@ this is a small exercise to test out using visual studio and Github.
 
 ## Assignment Objective
 I made some cool shit
+
+and it was nice as fuck.
