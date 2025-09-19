@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game-10003-exercise-2", "game-10003-exercise-2.csproj", "{F47B04AF-38D6-4C07-B32E-BE82A45C0E72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D-Game_template", "2D-Game_template\2D-Game_template.csproj", "{40E0ED6D-AA30-44D7-8DFB-670694488B0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F47B04AF-38D6-4C07-B32E-BE82A45C0E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F47B04AF-38D6-4C07-B32E-BE82A45C0E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F47B04AF-38D6-4C07-B32E-BE82A45C0E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F47B04AF-38D6-4C07-B32E-BE82A45C0E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E0ED6D-AA30-44D7-8DFB-670694488B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E0ED6D-AA30-44D7-8DFB-670694488B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E0ED6D-AA30-44D7-8DFB-670694488B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E0ED6D-AA30-44D7-8DFB-670694488B0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CD98BDF8-58E4-4FA2-8433-8E18EBE7FD54}
+		SolutionGuid = {C697812B-EA39-4418-BAE3-791944B7F725}
 	EndGlobalSection
 EndGlobal
